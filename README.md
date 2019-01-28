@@ -33,6 +33,11 @@ Plus, with Github API rate limit, it is important to save API calls.
 
 ## Prerequisites
 
+This project was build with 
+
+- Node v9.5.0
+- Yarn v9.5.0
+
 First things first you will need to install all modules needed for the server
 
 ```
